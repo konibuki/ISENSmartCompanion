@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ISENSmartCompanion</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_event_screen">EventScreen</string>
+    <string name="title_activity_main2">MainActivity2</string>
+
 </resources>
